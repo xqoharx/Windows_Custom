@@ -10,3 +10,4 @@ regscr32 gamingtcui.dll
 setelah itu bisa restart dan coba lagi game kalian.
 
 Note : jangan hapus untuk embeded mode iot untuk windows 11 26H2 karena kalian bisa hilang untuk taksbar dan gabisa balik, atau untuk custom iso itu tidak bisa di hapus karena instalasinya akan error
+
