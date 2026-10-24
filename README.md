@@ -1,5 +1,6 @@
 # Windows11Custom
 
+NTLite Version yang di gunakan adalah NTLite versi 2025.8.10552
 Untuk direct edit windows kalian bisa ambil file yang Main_PC untuk editing iso kalian ambil file xml yang iso belakangnya jangan salah ambil.
 
 Disni saya share untuk import file dari NTLite jika kalian butuh
